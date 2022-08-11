@@ -68,7 +68,7 @@ h6 {
   color: #ff0000;
 }
 .scheme_original a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original h1 a:hover,
 .scheme_original h2 a:hover,
@@ -106,13 +106,16 @@ h6 {
   color: #999;
 }
 .scheme_original blockquote.sc_quote_style_1 p a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original blockquote.sc_quote_style_2 p a:hover {
   color: #ff0000;
 }
 .scheme_original .accent1 {
   color: #ff0000;
+}
+.scheme_original .accent1 {
+  color: #2e2e2e;
 }
 .scheme_original .accent1_bgc {
   background-color: #ff0000;
@@ -124,7 +127,7 @@ h6 {
   border-color: #ff0000;
 }
 .scheme_original a.accent1:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .accent2_bgc {
   background-color: #ffa800;
@@ -368,7 +371,7 @@ textarea {
   .top_panel_top
   .top_panel_top_contact_area
   a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .top_panel_inner_style_5 .top_panel_top {
   background-color: rgba(29, 198, 223, 0.08);
@@ -395,7 +398,7 @@ textarea {
   color: #999;
 }
 .scheme_original .menu_user_nav > li > a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .top_panel_inner_style_3 .menu_user_nav > li > a,
 .top_panel_inner_style_4 .menu_user_nav > li > a {
@@ -405,7 +408,7 @@ textarea {
   color: rgba(255, 255, 255, 0.35);
 }
 .scheme_original .top_panel_inner_style_3 .menu_user_nav > li > a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .top_panel_inner_style_5 .menu_user_nav > li > a:hover {
   color: #fff;
@@ -420,7 +423,7 @@ textarea {
 .scheme_original .top_panel_inner_style_5 .menu_user_nav > li ul {
   color: #fff;
   background-color: #ff0000;
-  border-color: #3799ab;
+  border-color: #ff0000;
 }
 .scheme_original .menu_user_nav > li ul li a {
   color: #555;
@@ -460,7 +463,7 @@ textarea {
   ul
   li.current-menu-ancestor
   > a {
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original .top_panel_inner_style_3 .menu_user_nav > li ul li a:hover {
   color: #fff;
@@ -668,13 +671,13 @@ textarea {
 }
 .scheme_original .search_results .post_more:hover,
 .scheme_original .search_results .search_results_close:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .top_panel_inner_style_3 .search_results,
 .scheme_original .top_panel_inner_style_3 .search_results:after {
   color: #fff;
   background-color: #ff0000;
-  border-color: #3799ab;
+  border-color: #ff0000;
 }
 .scheme_original .top_panel_inner_style_3 .search_results a,
 .scheme_original .top_panel_inner_style_3 .search_results .post_info a,
@@ -716,7 +719,7 @@ textarea {
   color: #ff0000;
 }
 .scheme_original .pushy_inner a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .pushy_inner ul ul {
   background-color: rgba(243, 245, 248, 0.8);
@@ -750,7 +753,7 @@ textarea {
   background-color: #ff0000;
 }
 .scheme_original .header_mobile .panel_bottom {
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original .header_mobile .menu_button:hover,
 .scheme_original
@@ -789,7 +792,7 @@ textarea {
   color: #fff;
 }
 .scheme_original .header_mobile .login .popup_wrap a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .header_mobile .search_wrap,
 .scheme_original .header_mobile .login {
@@ -828,7 +831,7 @@ textarea {
   border-color: #fff;
 }
 .scheme_original .top_panel_title_inner {
-  background-color: #b2b9bd;
+  background-color: #ff0000;
   border-color: rgba(243, 245, 248, 0.1);
 }
 .scheme_original .top_panel_title_inner.title_present_inner {
@@ -975,7 +978,7 @@ textarea {
   color: #212121;
 }
 .scheme_original .post_item .post_readmore:hover .post_readmore_label {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .post_item_related .post_info a {
   color: #555;
@@ -1029,7 +1032,7 @@ textarea {
 .scheme_original .isotope_item_colored_1 a:hover,
 .scheme_original .isotope_item_colored_1 .post_title a:hover,
 .scheme_original .isotope_item_colored_1 .post_category a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .isotope_wrap .isotope_item .post_featured .post_date_wrapper {
   color: #fff;
@@ -1042,8 +1045,8 @@ textarea {
 }
 .scheme_original .isotope_filters a.active,
 .scheme_original .isotope_filters a:hover {
-  border-color: #3799ab;
-  background-color: #3799ab;
+  border-color: #ff0000;
+  background-color: #ff0000;
 }
 .scheme_original .post_item_sermons {
   background-color: #f3f5f8;
@@ -1182,12 +1185,12 @@ textarea {
 }
 .scheme_original .pagination_viewmore > a:hover {
   color: #fff;
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original .viewmore_loader,
 .scheme_original .mfp-preloader span,
 .scheme_original .sc_video_frame.sc_video_active:before {
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original .widget_area ul.instagram-pics li > a:before {
   background-color: rgba(29, 198, 223, 0.8);
@@ -1219,7 +1222,7 @@ textarea {
   color: #ff0000;
 }
 .scheme_original .post_author .post_author_title a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .post_author .post_author_info .sc_socials_shape_square a {
   color: #212121;
@@ -1229,7 +1232,7 @@ textarea {
   .post_author_info
   .sc_socials_shape_square
   a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .comments_list_wrap ul.children,
 .scheme_original .comments_list_wrap ul > li + li {
@@ -1285,7 +1288,7 @@ textarea {
 .scheme_original .widget_area_inner a:hover,
 .scheme_original .widget_area_inner ul li a,
 .scheme_original .widget_area_inner button:hover:before {
-  color: #3799ab;
+  color: #ff0000;
 }
 .widget_area_inner ul li:before {
   font-size: 1.5em;
@@ -1302,7 +1305,7 @@ textarea {
 }
 .scheme_original .widget_area_inner .widget_text a:not(.sc_button):hover,
 .scheme_original .widget_area_inner .post_info a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .widget_area_inner .widget_product_search .search_form,
 .scheme_original .widget_area_inner .widget_search .search_form {
@@ -1385,7 +1388,7 @@ textarea {
   color: #ff0000;
 }
 .scheme_original .copyright_wrap_inner .menu_footer_nav li a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scroll_to_top {
   border: none;
@@ -1476,7 +1479,7 @@ textarea {
 }
 .scheme_original .woocommerce div.quantity span:hover,
 .scheme_original .woocommerce-page div.quantity span:hover {
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original
   .woocommerce
@@ -1789,7 +1792,7 @@ textarea {
   background-color: #f3f5f8;
 }
 .scheme_original .widget_area dd.course_progress div.course_progress_blue {
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original #myplayer .ttw-music-player .progress-wrapper {
   background-color: #b2b9bd;
@@ -1995,7 +1998,7 @@ button,
   background-color: #ff0000;
 }
 .scheme_original .sc_blogger.layout_polaroid .photostack nav span.current.flip {
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original .sc_blogger.layout_plain .post_counters_item:before {
   color: #ff0000;
@@ -2074,7 +2077,7 @@ button,
 }
 .scheme_original .sc_form .sc_form_button button:hover {
   color: #fff;
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original .sc_form .sc_form_item > label {
   color: #212121;
@@ -2163,7 +2166,7 @@ button,
 }
 .scheme_original .sc_form .picker--time .picker__button--clear:hover,
 .scheme_original .sc_form .picker--time .picker__button--clear:focus {
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original .sc_form .picker__footer {
   border-color: #f3f5f8;
@@ -2249,7 +2252,7 @@ button,
 }
 .scheme_original .sc_events_item .sc_events_item_readmore:hover,
 .scheme_original .sc_events_item .sc_events_item_readmore:hover span {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .sc_events_style_events-1 .sc_events_item {
   background-color: #fff;
@@ -2277,7 +2280,7 @@ button,
   color: #fff;
 }
 .scheme_original .sc_highlight_style_2 {
-  background-color: #3799ab;
+  background-color: #ff0000;
   color: #fff;
 }
 .scheme_original .sc_highlight_style_3 {
@@ -2356,7 +2359,7 @@ button,
   color: #212121;
 }
 .scheme_original .sc_list_style_iconed li a:hover .sc_list_title {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .sc_line {
   border-color: #f1f4f6;
@@ -2387,7 +2390,7 @@ button,
   background-color: #ff0000;
 }
 .scheme_original .sc_price_block.sc_price_block_style_2 {
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original .sc_price_block.sc_price_block_style_3,
 .scheme_original
@@ -2465,7 +2468,7 @@ button,
 }
 .scheme_original .sc_services_item .sc_services_item_readmore:hover,
 .scheme_original .sc_services_item .sc_services_item_readmore:hover span {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .sc_services_style_services-1 .sc_services_item {
   background-color: #fff;
@@ -2514,7 +2517,7 @@ button,
 }
 .scheme_original .sc_services_style_services-4 a:hover .sc_icon,
 .scheme_original .sc_services_style_services-4 .sc_icon:hover {
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original .sc_services_style_services-4 a:hover .sc_services_item_title {
   color: #ff0000;
@@ -2545,7 +2548,7 @@ button,
   color: #ff0000;
 }
 .scheme_original .sc_skills_counter .sc_skills_item:hover .sc_skills_icon {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .sc_skills_counter .sc_skills_item .sc_skills_info {
   color: #212121;
@@ -2700,7 +2703,7 @@ button,
   background-color: #f3f5f8;
 }
 .scheme_original .post_format_link .post_descr a:hover {
-  color: #3799ab;
+  color: #ff0000;
 }
 .scheme_original .sc_team_item {
   background-color: #fff;
@@ -2852,15 +2855,15 @@ button,
   background-color: #ff0000;
 }
 .scheme_original .sc_toggles .sc_toggles_item .sc_toggles_title:hover {
-  color: #3799ab;
-  border-color: #3799ab;
+  color: #ff0000;
+  border-color: #ff0000;
 }
 .scheme_original
   .sc_toggles
   .sc_toggles_item
   .sc_toggles_title:hover
   .sc_toggles_icon_opened {
-  background-color: #3799ab;
+  background-color: #ff0000;
 }
 .scheme_original .sc_toggles .sc_toggles_item .sc_toggles_content {
   border-color: #f1f4f6;
@@ -2931,5 +2934,5 @@ button,
   background-color: #fff;
 }
 .scheme_original .sc_item_button > a:hover:before {
-  color: #3799ab;
+  color: #ff0000;
 }

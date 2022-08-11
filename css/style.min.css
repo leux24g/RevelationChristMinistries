@@ -6745,22 +6745,22 @@ body .booked-modal .booked-form {
   position: relative;
 }
 .breadcrumbs_block_bg1 {
-  background-image: url(http://placehold.it/1920x348);
+  background-image: url(images/bg1.jpg);
 }
 .breadcrumbs_block_bg2 {
-  background-image: url(http://placehold.it/1920x348);
+  background-image: url(images/bg1.jpg);
 }
 .breadcrumbs_block_bg3 {
-  background-image: url(http://placehold.it/1920x348);
+  background-image: url(images/bg1.jpg);
 }
 .breadcrumbs_block_bg4 {
-  background-image: url(http://placehold.it/1920x348);
+  background-image: url(images/bg1.jpg);
 }
 .breadcrumbs_block_bg5 {
-  background-image: url(http://placehold.it/1920x348);
+  background-image: url(images/bg1.jpg);
 }
 .breadcrumbs_block_bg6 {
-  background-image: url(http://placehold.it/1920x348);
+  background-image: url(images/bg1.jpg);
 }
 .slider1_slide1 {
   background-image: url(http://placehold.it/670x400);
@@ -7069,10 +7069,10 @@ body .booked-modal .booked-form {
   background-color: #ff0000;
 }
 .general_info_section .column-1_3:nth-child(2) {
-  background-color: #1cbed6;
+  background-color: #ffa500;
 }
 .general_info_section .column-1_3:last-child {
-  background-color: #1bbad2;
+  background-color: #990000;
 }
 .general_info_section .gi_block .sc_title {
   color: #fff;

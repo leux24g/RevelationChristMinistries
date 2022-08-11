@@ -1591,7 +1591,7 @@ body .top_panel_style_5 .top_panel_position_over .top_panel_top{
     background: none !important;
 }
 .scheme_original .top_panel_inner_style_3 .top_panel_top_socials .sc_socials.sc_socials_type_icons a:hover{
-    color: #3799AB !important;
+    color: #ff0000 !important;
 }
 
 .content .search_wrap .search_form{
@@ -4249,7 +4249,7 @@ body .widget_area table.booked-calendar th .monthName a{
     white-space: nowrap;
 }
 body .widget_area table.booked-calendar th .monthName a:hover{
-    color: #3799ab !important;
+    color: #ff0000 !important;
 }
 body .widget_area .booked-calendar-wrap.small table.booked-calendar thead th .page-right,
 body .widget_area table.booked-calendar thead th .page-right,
@@ -4931,7 +4931,7 @@ body #booked-profile-page .booked-profile-appt-list .appt-block .google-cal-butt
 
 .sc_button.sc_button_style_filled.sc_button_color_style_1,
 .sc_button.sc_button_style_filled.sc_button_color_style_1:hover{
-    background-image: linear-gradient(90deg, #3799AB 0%, #3799AB 50%, #1DC6DF 50%, #1DC6DF 100%) !important;
+    background-image: linear-gradient(90deg, #ff0000 0%, #ff0000 50%, #1DC6DF 50%, #1DC6DF 100%) !important;
 }
 .sc_button.sc_button_style_filled.sc_button_color_style_2,
 .sc_button.sc_button_style_filled.sc_button_color_style_2:hover {
@@ -6314,12 +6314,12 @@ body .booked-modal .booked-form{
 }
 
 /* Breadcrumbs block backgrounds */
-.breadcrumbs_block_bg1{	background-image: url(http://placehold.it/1920x348); }
-.breadcrumbs_block_bg2{	background-image: url(http://placehold.it/1920x348); }
-.breadcrumbs_block_bg3{ background-image: url(http://placehold.it/1920x348); }
-.breadcrumbs_block_bg4{ background-image: url(http://placehold.it/1920x348); }
-.breadcrumbs_block_bg5{ background-image: url(http://placehold.it/1920x348); }
-.breadcrumbs_block_bg6{ background-image: url(http://placehold.it/1920x348); }
+.breadcrumbs_block_bg1{background-image: url(images/bg1.jpg); }
+.breadcrumbs_block_bg2{background-image: url(images/bg1.jpg); }
+.breadcrumbs_block_bg3{ background-image: url(images/bg1.jpg); }
+.breadcrumbs_block_bg4{ background-image: url(images/bg1.jpg); }
+.breadcrumbs_block_bg5{ background-image: url(images/bg1.jpg); }
+.breadcrumbs_block_bg6{ background-image: url(images/bg1.jpg); }
 
 /* Sliders */
 .slider1_slide1{ background-image:url(http://placehold.it/670x400); }
