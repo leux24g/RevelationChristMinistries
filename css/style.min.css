@@ -7088,12 +7088,3 @@ body .booked-modal .booked-form {
   padding-top: 9.3571em;
   padding-bottom: 8.5em;
 }
-.shop_page_breadcrumbs_bg {
-  background-image: url(http://placehold.it/1920x348);
-  background-position: center top;
-  background-size: cover;
-  background-color: transparent;
-}
-.post_audio_bg {
-  background-image: url(http://placehold.it/768x144);
-}

@@ -834,6 +834,19 @@ textarea {
   background-color: #ff0000;
   border-color: rgba(243, 245, 248, 0.1);
 }
+.scheme_original .top_panel_title_inner1 {
+  background-image: url(../images/lovethatworks.jpg);
+  height: 190px;
+}
+.scheme_original .top_panel_title_inner2 {
+  background-image: url(../images/books.jpg);
+  height: 700px;
+}
+.scheme_original .top_panel_title_inner3 {
+  background-image: url(../images/music.jpg);
+  width: 1280px;
+  height: 720px;
+}
 .scheme_original .top_panel_title_inner.title_present_inner {
   background-color: #555;
 }
