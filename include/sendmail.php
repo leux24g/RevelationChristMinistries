@@ -1,7 +1,7 @@
 <?php 
 global $_REQUEST;
 $response = array('error'=>'');
-$contact_email = 'info@josephandsaraking.org';
+$contact_email = 'info@apostlesjosephandsarahking.co.ke';
 
 // type
 $type = $_REQUEST['type'];	
